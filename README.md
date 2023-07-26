@@ -1,6 +1,6 @@
 # Ultimate OpenCart Profiler
 
-(Українською)[README_uk.md]
+[Українською](README_uk.md)
 
 This is a presentation and an issue tracker for the Ultimate OpenCart Profiler module by nekto.
 
