@@ -89,7 +89,7 @@ I believe every serious OpenCart developer and website development studio must h
 It opens new perspectives, laying out detailed internal OpenCart logic in general and for every custom project in particular.\
 I've been writing OpenCart code for years, but this module still shows me things I haven't known or understood in full before.
 
-Side note: please, do not buy this module with intention to profile websites running on single-core servers - the measurements will be screwed and not informative, it won't help realistically improve performance.
+Side note: Please, do not buy this module with intention to profile websites running on single-core servers - the measurements will be screwed and not informative, it won't help realistically improve performance.
 
 # Translations
 
