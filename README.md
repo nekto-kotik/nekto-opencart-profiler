@@ -66,7 +66,7 @@ Bottom left of the module displays the overall time SQL requests and code execut
 
 ![image](https://opencart-profiler.nekto.com.ua/image/public/sql-filtering-example.png)
 
-**Same SQL** lists exactly the same query, which was run multiple times. It's my personal favourite and an often very surprising list.\
+**Same SQL** lists exactly the same queries, which were run multiple times. It's my personal favourite and an often very surprising list.\
 A recommended starting place when looking for performance improvement opportunities.
 
 ![image](https://opencart-profiler.nekto.com.ua/image/public/same-sql-examples.png)
