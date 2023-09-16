@@ -80,7 +80,7 @@ Don't improve what isn't slow!
 
 ![image](https://opencart-profiler.nekto.com.ua/image/public/similar-sql-example-few-but-slow.png)
 
-The profiler panel doesn't hinder website navigation in any way, it can be maximized to full screen height, half-screen (default), or minimized to only occupy a tiny footprint in the corner.
+The profiler panel doesn't block website navigation in any way, it can be maximized to full screen height, half-screen (default), or minimized to only occupy a tiny footprint in the corner.
 
 ![image](https://opencart-profiler.nekto.com.ua/image/public/size-arrows-smallest-size.png)
 
