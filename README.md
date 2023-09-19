@@ -6,7 +6,8 @@
 
 This is the description/presentation and the issue tracker for the Ultimate OpenCart Profiler module by nekto.
 
-The module itself is not free and is not open-source, and can be bought elsewhere. This is only a place to report and track its bugs.
+The module itself is not free and is not open-source, and can be bought at the [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=45418).\
+This is only a place to report and track its bugs.
 
 ## What is this module for and what it accomplishes
 
